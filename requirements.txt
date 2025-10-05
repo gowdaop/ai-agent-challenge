@@ -1,0 +1,10 @@
+pandas
+pdfplumber
+langchain_groq
+langchain_core>=0.3.0
+langgraph
+langchain>=0.3.0
+langchain-text-splitters>=0.3.9
+groq
+pytest
+numpy
